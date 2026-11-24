@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mehmeteminncelik-cmyk.github.io/mecdosyasi/sitemap.xml
